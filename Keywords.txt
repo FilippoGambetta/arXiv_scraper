@@ -3,8 +3,18 @@
 # Check if there're accidental white space at the end of each entry!
 
 # Topics
-time crystal
-non equilibrium
+Superconductivity
+Machine learning
+Time crystal
+Nonequilibrium
+Non-equilibrium
+Non equilibrium
+Rydberg
 
 #Authors
 Gambetta
+Garrahan
+Foot
+Oreg
+Lesanovsky
+Weibin Li
