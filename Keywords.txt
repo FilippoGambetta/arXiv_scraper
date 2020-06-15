@@ -1,6 +1,8 @@
 # Insert keywords as new lines. 
+# No case sensitive, but special character sensitive (i.e., u \neq ü)
 # Line beginning with # will be ignored. 
 # Check if there're accidental white space at the end of each entry!
+# Tip: use singular!
 
 # Topics
 Quantum
@@ -11,3 +13,5 @@ Entanglement
 Einstein
 Feynman
 Landau
+Schrödinger
+Schroedinger 
