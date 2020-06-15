@@ -3,18 +3,11 @@
 # Check if there're accidental white space at the end of each entry!
 
 # Topics
+Quantum
 Superconductivity
-Machine learning
-Time crystal
-Nonequilibrium
-Non-equilibrium
-Non equilibrium
-Rydberg
+Entanglement
 
 #Authors
-Gambetta
-Garrahan
-Foot
-Oreg
-Lesanovsky
-Weibin Li
+Einstein
+Feynman
+Landau
